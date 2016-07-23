@@ -20,3 +20,8 @@ Components used:
 * Cables and breadboard
 
 ![alt text](fritzing/motor_bb.png "Fritzing schema")
+
+## To run
+```
+python motor.py
+```
